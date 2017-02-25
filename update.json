@@ -1,10 +1,11 @@
-"homepage": "https://minecraft.curseforge.com/projects/obsidian-armor-and-tools/files",
+{
+  "homepage": "https://minecraft.curseforge.com/projects/obsidian-armor-and-tools/files",
   "promos": {
     "1.11.2-latest": "v1.7.0",
     "1.11.2-recommended": "v1.6.2"
-  },
-  
-"1.8: {
+  },  
+  "1.8: {
     "v1.7.0": "An Update is avaliable for Obsidian Tools and Armor",
     "v1.6.2": "Obsidian Tools and Armor: Version 1.6.2 - bugfixes."
   }
+}
